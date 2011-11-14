@@ -1,0 +1,35 @@
+ruca;description;classA;classB;classC;classD;classE
+1.0;Metropolitan area core: primary flow within an urbanized area (UA);Urban focused;Urban;Urban;Urban;Urban
+1.1;Secondary flow 30% to 50% to a larger UA;Urban focused;Urban;Urban;Urban;Urban
+2.0;Metropolitan area high commuting: primary flow 30% or more to a UA;Urban focused;Urban;Urban;Urban;Urban
+2.1;Secondary flow 30% to 50% to a larger UA;Urban focused;Urban;Urban;Urban;Urban
+2.2;Combined flows to urbanized areas of >30% and greater than primary flow;Urban focused;Urban;Urban;Urban;Urban
+3.0;Metropolitan area low commuting: primary flow 5% to 30% to a UA;Urban focused;Urban;Urban;Rural;Urban
+4.0;Micropolitan area core: primary flow within an Urban Cluster of 10000 to 49999 (large UC);Large Rural City/Town focused;Large Rural City/Town;Rural;Rural;Large Rural City/Town
+4.1;Secondary flow 30% to 50% to a UA;Urban focused;Urban;Urban;Urban;Urban
+4.2;Secondary flow 10% to 30% to a UA;Urban focused;Urban;Urban;Urban;Urban
+5.0;Micropolitan high commuting: primary flow 30% or more to a large UC;Large Rural City/Town focused;Large Rural City/Town;Rural;Rural;Large Rural City/Town
+5.1;Secondary flow 30% to 50% to a UA;Urban focused;Urban;Urban;Urban;Urban
+5.2;Secondary flow 10% to 30% to a UA;Urban focused;Urban;Urban;Urban;Urban
+6.0;Micropolitan low commuting: primary flow 10% to 30% to a large UC;Large Rural City/Town focused;Large Rural City/Town;Rural;Rural;Large Rural City/Town
+6.1;Secondary flow 10% to 30% to a UA;Large Rural City/Town focused;Large Rural City/Town;Rural;Rural;Large Rural City/Town
+7.0;Small town core: primary flow within an Urban Cluster of 2500 to 9999 (small UC);Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+7.1;Secondary flow 30% to 50% to a UA;Urban focused;Urban;Urban;Urban;Urban
+7.2;Secondary flow 30% to 50% to a large UC;Small Rural Town focused;Small Rural Town;Rural;Rural;Large Rural City/Town
+7.3;Secondary flow 10% to 30% to a UA;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+7.4;Secondary flow 10% to 30% to a large UC;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+8.0;Small town high commuting: primary flow 30% or more to a small UC;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+8.1;Secondary flow 30% to 50% to a UA;Urban focused;Urban;Urban;Urban;Urban
+8.2;Secondary flow 30% to 50% to a large UC;Small Rural Town focused;Small Rural Town;Rural;Rural;Large Rural City/Town
+8.3;Secondary flow 10% to 30% to a UA;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+8.4;Secondary flow 10% to 30% to a large UC;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+9.0;Small town low commuting: primary flow 10% to 30% to a small UC;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+9.1;Secondary flow 10% to 30% to a UA;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+9.2;Secondary flow 10% to 30% to a large UC;Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+10.0;Rural areas: primary flow to a tract outside a UA or UC;Isolated Small Rural Town focused;Small Rural Town;Rural;Rural;Isolated Small Rural Town
+10.1;Secondary flow 30% to 50% to a UA;Urban focused;Urban;Urban;Urban;Urban
+10.2;Secondary flow 30% to 50% to a large UC;Isolated Small Rural Town focused;Small Rural Town;Rural;Rural;Large Rural City/Town
+10.3;Secondary flow 30% to 50% to a small UC;Isolated Small Rural Town focused;Small Rural Town;Rural;Rural;Small Rural Town
+10.4;Secondary flow 10% to 30% to a UA;Isolated Small Rural Town focused;Small Rural Town;Rural;Rural;Isolated Small Rural Town
+10.5;Secondary flow 10% to 30% to a large UC;Isolated Small Rural Town focused;Small Rural Town;Rural;Rural;Isolated Small Rural Town
+10.6;Secondary flow 10% to 30% to a small UC;Isolated Small Rural Town focused;Small Rural Town;Rural;Rural;Isolated Small Rural Town
