@@ -4,8 +4,14 @@ Date: 2009-09-02
 Title: ruca
 Author: Jason Bryer <jason@bryer.org>
 Maintainer: Jason Bryer <jason@bryer.org>
-Depends: R (>= 2.8.0)
-Suggests: 
-Description: Given a postal code, will determine the urbanicity of that region based upon Rural Health Research Center's Rural-Urban Commuting Area Codes (RUCAs).
+URL: http://www.r-project.org, http://www.bryer.org,
+    http://depts.washington.edu/uwruca/ruca-methodology.php
+BugReports: https://github.com/jbryer/ruca/issues
+Depends:
+    R (>= 2.8.0)
+Description: Given a postal code, will determine the urbanicity of that region
+    based upon Rural Health Research Center's Rural-Urban Commuting Area Codes
+    (RUCAs).
 License: GPL (>= 2)
-URL: http://www.r-project.org, http://www.bryer.org, http://depts.washington.edu/uwruca/ruca-methodology.php
+Collate:
+    'ruca.R'
