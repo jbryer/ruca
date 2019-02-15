@@ -1,7 +1,10 @@
-setwd('~/Dropbox/Projects')
-require(devtools)
+library(devtools)
 
-document('ruca')
-check_doc('ruca')
-install('ruca')
-check('ruca')
+document()
+install()
+check()
+
+library(ruca)
+
+data(ruca)
+getruca()

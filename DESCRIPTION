@@ -15,3 +15,4 @@ Description: Given a postal code, will determine the urbanicity of that region
 License: GPL (>= 2)
 Collate:
     'ruca.R'
+RoxygenNote: 6.1.1
